@@ -1,0 +1,6 @@
+# Básico para el proyecto
+streamlit>=1.32.0
+libsql>=0.2.0
+
+# Opcional para extras
+pandas>=2.2.0     # Si luego quieres exportar datos a CSV o Excel
